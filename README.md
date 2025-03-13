@@ -10,11 +10,6 @@ The repository is organized as follows:
 - **Gold/** - Aggregated and enriched data for analytics and reporting.
 - **Dashboards/** - Notebooks and scripts for visualizing library data.
 - **Datasets/** - Raw and processed datasets used in the project.
-- **Images/** - Screenshots, diagrams, and other visuals.
-
-## 🚀 Setup Instructions
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/SamadKhan17/Library-Management-System-Azure-Databricks-Project.git
-   cd Library-Management-System
+- **Media/** - Contains all multimedia assets:
+  - **Images/** - Screenshots, diagrams, and visuals.
+  - **Video/** - Recordings of project demos, tutorials, and presentations.
